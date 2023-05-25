@@ -1,0 +1,20 @@
+# Data Sources
+
+
+## World Bank - World Development Indicators
+https://datatopics.worldbank.org/world-development-indicators/
+
+## World Bank - Income Classifications
+https://blogs.worldbank.org/opendata/new-world-bank-country-classifications-income-level-2021-2022
+https://blogs.worldbank.org/opendata/new-country-classifications-income-level-2018-2019
+
+## World Bank - SDG 3 Atlas
+https://datatopics.worldbank.org/sdgatlas/goal-3-good-health-and-well-being/
+
+
+## UNDP - Human Development Index
+https://hdr.undp.org/data-center/documentation-and-downloads
+
+
+## PH Human Development Network - 2020/21 Report
+https://www.hdn.org.ph/2020-2021-philippine-human-development-report/
